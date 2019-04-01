@@ -28,6 +28,6 @@ Get API key from youtube and replace it to the YouTubeSearch ``YTapiKey`` variab
 
 After all packages are installed, run 
 
-python gatherClips.py
+``python gatherClips.py``
 
 Follow instructions in the terminal to generate your own PowerHour!
