@@ -24,11 +24,16 @@ Install Pytube
  
 ``pip install pytube``
 
+Install Moviepy by following these [instructions](https://zulko.github.io/moviepy/install.html)
+
+
 [Get API key from youtube](https://developers.google.com/youtube/v3/getting-started)
 
 Replace the ``YTapiKey`` variable in `gatherClips.py` with your API key
 
-After all packages are installed, run 
+After all packages are installed
+
+### Run 
 
 ``python gatherClips.py``
 
