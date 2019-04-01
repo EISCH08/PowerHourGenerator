@@ -1,4 +1,4 @@
-YTapiKey = "INSERT KEY HERE"
+YTapiKey = "AIzaSyBICYYYPV8v1jAWzptcUJ4L-d41bcCMKBQ"
 
 from googleapiclient.discovery import build
 import sys
