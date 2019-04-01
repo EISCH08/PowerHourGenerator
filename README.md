@@ -1,8 +1,8 @@
 # PowerHourGenerator
 
-This is a program that generates PowerHours based off of a users desired searches.
+This is a program that generates [PowerHours](https://en.wikipedia.org/wiki/Power_hour) based off of a users desired searches.
 
-Reference to what PowerHours are:
+Example to what a PowerHours is:
 
 https://www.youtube.com/watch?v=IZ9FLVBKmo0&t=1407s
 
@@ -24,7 +24,9 @@ Install Pytube
  
 ``pip install pytube``
 
-Get API key from youtube and replace it to the YouTubeSearch ``YTapiKey`` variable
+[Get API key from youtube](https://developers.google.com/youtube/v3/getting-started)
+
+Replace the ``YTapiKey`` variable in `gatherClips.py` with your API key
 
 After all packages are installed, run 
 
